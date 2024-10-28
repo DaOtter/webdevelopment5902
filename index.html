@@ -1,25 +1,32 @@
 <!DOCTYPE html>
 <html>
+	<head>
+		<title>Elden Ring Weapon Collection</title>
+        <link rel="icon" type="gif/x-icon" href="/static/favicon.png">
+        <link rel="stylesheet" href="/static/style.css">
+	</head>
 
-<head>
-    <title>Upload Images and Change Text in Tables</title>
-    <link rel="icon" type="gif/x-icon" href="/static/favicon.png">
-    <link rel="stylesheet" href="/static/style.css">
-</head>
 <body>
-    <h1>Tasks</h1>
-    <form method="post" action="/add">
-        <input type="text" name="type" placeholder="New task" required>
-        <input type="text" name="task" placeholder="New task" required>
-        <button type="submit">Add Task</button>
-    </form>
-<ul id="table">
-% for boobers_id, task, type in boobers:
-    <li>
-        {{ task }} ({{ type }})
-        <a href="/delete/{{ boobers_id }}">Delete</a>
-    </li>
-% end
-</ul>
+     <div class="bodymain">
+         <div class="navbar">
+             <ul>6
+                 <li><a href="/manager">Manager</a></li>
+                 <li><a href="https://eldenring.fandom.com/wiki/Ranni_the_Witch">Lore</a></li>
+             </ul>
+             <ul>
+                 <li><a href="register">Register</a></li>
+                 <li><a href="login">Login</a></li>
+             </ul>
+         </div>
+    </div>
+    <footer>
+        <div class="contacts">
+             <ul>
+                 <li><p>Contact us:</p></li>
+                 <li><a href="https://www.instagram.com/haribo69x/">Instagram</a></li>
+                 <li><a href="https://www.linkedin.com/in/sivarajah-subramaniam-80b4274b/?originalSubdomain=bn">LinkedIn</a></li>
+             </ul>
+         </div>
+    </footer>
 </body>
 </html>
