@@ -1,13 +1,25 @@
 <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8"/>
-        <title> FCP002 Lesson 1</title>
-    </head>
-    <body>
-        <header> Lets learn HTML5 </header>
-        <p> HTML5 is easy!</p>
-        <p><a href="https://123.com.bn">LCB</a><br/>
-            <a href="https://456.com.bn">KSA</a></p>
-    </body>
+<html>
+
+<head>
+    <title>Upload Images and Change Text in Tables</title>
+    <link rel="icon" type="gif/x-icon" href="/static/favicon.png">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Tasks</h1>
+    <form method="post" action="/add">
+        <input type="text" name="type" placeholder="New task" required>
+        <input type="text" name="task" placeholder="New task" required>
+        <button type="submit">Add Task</button>
+    </form>
+<ul id="table">
+% for boobers_id, task, type in boobers:
+    <li>
+        {{ task }} ({{ type }})
+        <a href="/delete/{{ boobers_id }}">Delete</a>
+    </li>
+% end
+</ul>
+</body>
 </html>
