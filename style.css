@@ -1,6 +1,6 @@
 * {
-    margin: 0%;
-    padding: 0%;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -132,7 +132,7 @@ p {
 }
 
 .source-history {
-    flex-basis: 22%;
+    flex-basis: 30%;
     background: linear-gradient(rgba(4, 9, 30, 0.3),
     rgba(0, 0, 0, 0.3)), url(static/historyandcultureprofile.png);
     background-position: center;
@@ -144,7 +144,7 @@ p {
 }
 
 .source-destinations {
-    flex-basis: 22%;
+    flex-basis: 30%;
     background: linear-gradient(rgba(4, 9, 30, 0.3),
     rgba(0, 0, 0, 0.3)), url(static/destinationsprofile.png);
     background-position: center;
@@ -155,19 +155,8 @@ p {
     box-sizing: border-box;
 }
 
-.source-gallery {
-    flex-basis: 22%;
-    background: linear-gradient(rgba(4, 9, 30, 0.3), rgba(0, 0, 0, 0.3)), url(static/backgroundjap.png);
-    background-position: center;
-    background-size: cover;
-    border-radius: 10px;
-    margin-bottom: 5%;
-    padding: 20px 12px;
-    box-sizing: border-box;
-}
-
 .source-visit {
-    flex-basis: 22%;
+    flex-basis: 30%;
     background: linear-gradient(rgba(4, 9, 30, 0.3), rgba(0, 0, 0, 0.3)), url(static/backgroundjap.png);
     background-position: center;
     background-size: cover;
@@ -220,7 +209,7 @@ h3 {
 }
 /*-----HISTORY AND CULTURE-----*/
 
- .headerCulture{
+ .headerHC{
     min-height: 50vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7), rgba(0, 0, 0, 0.7)), url(static/historyandcultureprofile.png)
@@ -230,22 +219,22 @@ h3 {
     position: relative;
 }
 
- .HCselect{
+ .HCheader{
      width: 80%;
      margin: auto;
      text-align: center;
      padding-top: 50px;
  }
 
- .HCselect-col{
-     flex-basis: 40%;
+ .historyselect-col{
+     flex-basis: 30%;
      border-radius: 10px;
      margin-bottom: 30px;
      position: relative;
      overflow: hidden;
  }
- .HCselect-col img{
-     width: 100%;
+ .historyselect-col img{
+     width:100%;
      display: block;
  }
  .layer1{
@@ -303,3 +292,245 @@ h3 {
      bottom: 49%;
      opacity: 1;
  }
+/*----HISTORY----*/
+.historybg {
+    background-color: #492222;
+}
+ .headerHC{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.9), rgba(0, 0, 0, 0.9)), url(static/historyandcultureprofile.png)
+    ;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+ .timeline{
+     position: relative;
+     max-width: 1200px;
+     margin:100px auto;
+
+ }
+ .timeline p {
+     color: #000;
+ }
+ .container {
+     padding: 10px 50px;
+     position: relative;
+     width: 50%;
+ }
+ .text-box2{
+     padding: 20px 30px;
+     background: #fff;
+     position: relative;
+     border-radius: 6px;
+     font-size: 15px;
+ }
+.left-container{
+    left:0;
+}
+.right-container{
+    left: 50%;
+}
+
+.container img{
+    background: white;
+    position: absolute;
+    width: 40px;
+    border-radius: 50%;
+    right: -20px;
+    top: 32px;
+    z-index: 10;
+}
+.right-container img{
+    left: -20px;
+}
+.timeline::after{
+    content: '';
+    position: absolute;
+    width: 6px;
+    height: 100%;
+    background: #fff;
+    top: 0;
+    left: 50%;
+    margin-left: -3px;
+    z-index: -1;
+}
+
+
+
+
+    /*----DESTINSTIONS-----*/
+.DSTheader{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(0, 0, 0, 0.7)), url(static/destinationsprofile.png)
+    ;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.DSTselect body{
+    min-height: 100ch;
+    display: grid;
+    place-items: center;
+    background: #191919;
+    color: #fff;
+}
+.DSTselect{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    gap: 10px;
+    background: #191919;
+}
+.DSTselect h2 {
+    color: #fff;
+}
+.DSTselect div {
+    flex: 0 0 18vh;
+    border-radius: 0.5vh;
+    transition: 0.5s ease-in-out;
+     cursor:pointer;
+    box-shadow: 1px 5px 15px #1b2423;
+    position: relative;
+    overflow: hidden;
+}
+.DSTselect div:nth-of-type(1) {
+    background: url(static/hokkaido.png) no-repeat 50%/cover;
+}
+.DSTselect div:nth-of-type(2) {
+    background: url(static/tohoku.png) no-repeat 50%/cover;
+}
+.DSTselect div:nth-of-type(3) {
+    background: url(static/planavisitprofile.png) no-repeat 50%/cover;
+}
+.DSTselect div:nth-of-type(4) {
+    background: url(static/kanto.png) no-repeat 50%/cover;
+}
+.DSTselect div:nth-of-type(5) {
+    background: url(static/tokai.png) no-repeat 50%/cover;
+}
+.DSTselect div:nth-of-type(6) {
+    background: url(static/kansai.png) no-repeat 50%/cover;
+}
+.DSTselect div:nth-of-type(7) {
+    background: url(static/chugoku.png) no-repeat 50%/cover;
+}
+.DSTselect div:nth-of-type(8) {
+    background: url(static/shikoku.png) no-repeat 50%/cover;
+}
+.DSTselect div:nth-of-type(9) {
+    background: url(static/kyushu.png) no-repeat 50%/cover;
+}
+
+.DSTselect div .content{
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    opacity: 0;
+    flex-direction: column;
+    height: 100%;
+    justify-content: flex-end;
+    background: #02022e;
+    background: linear-gradient(0deg, rgba(2,2,46,0.67) 0%,rgba(255,255,255,0) 100%);
+    transform: translateY(100%);
+    transition: opacity 0.5s ease-in-out,transform 0.5s 0.2s;
+    visibility: hidden;
+}
+.DSTselect div .content span{
+    display: block;
+    margin-top: 5px;
+    font-size: 30px;
+}
+.DSTselect div:hover{
+    flex: 0 0 250px;
+    box-shadow: 1px 3px 15px #1b2423;
+    transform: translateY(-30px);
+}
+
+
+.DSTselect div:hover .content{
+    opacity: 1;
+    transform: translateY(0%);
+    visibility: visible;
+}
+
+
+/*--------GALLERY-----------*/
+.cultureheader{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(0, 0, 0, 0.7)), url(static/galleryprofile.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.cultureselect body{
+    min-height: 100ch;
+    display: grid;
+    place-items: center;
+    background: #191919;
+    color: #fff;
+}
+.cultureselect{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    gap: 10px;
+    background: #191919;
+}
+.cultureselect h2 {
+    color: #fff;
+}
+
+/*-----gallery-----*/
+.culturecontainer{
+    margin: 10px;
+    align-items: center;
+    position: relative;
+}
+.culturesection {
+    display: inline-block;
+    border: 1px solid hsl(0, 0%, 60%);
+    margin: 5px;
+    width: 60vh;
+}
+.culturesection .description{
+    padding: 10px;
+    text-align: center;
+}
+.culture:hover{
+    border: 1px solid hsl(0, 0%, 20%);
+}
+.culturesection img {
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
