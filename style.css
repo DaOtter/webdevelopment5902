@@ -13,6 +13,7 @@ body {
     width: 100%;
     background-image: linear-gradient(rgba(4, 9, 30, 0.7),
     rgba(0, 0, 0, 0.7)), url(static/backgroundjap.png);
+/*--(Getty Images, 2022)--*/
     background-position: center;
     background-size: cover;
     position: relative;
@@ -135,6 +136,7 @@ p {
     flex-basis: 30%;
     background: linear-gradient(rgba(4, 9, 30, 0.3),
     rgba(0, 0, 0, 0.3)), url(static/historyandcultureprofile.png);
+    /*--(Groundwater, 2017)--*/
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -147,6 +149,7 @@ p {
     flex-basis: 30%;
     background: linear-gradient(rgba(4, 9, 30, 0.3),
     rgba(0, 0, 0, 0.3)), url(static/destinationsprofile.png);
+    /*--(Narita International Airport Corporation, 2024)--*/
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -158,6 +161,7 @@ p {
 .source-visit {
     flex-basis: 30%;
     background: linear-gradient(rgba(4, 9, 30, 0.3), rgba(0, 0, 0, 0.3)), url(static/backgroundjap.png);
+    /*--(Getty Images, 2022)--*/
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -212,8 +216,8 @@ h3 {
  .headerHC{
     min-height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(0, 0, 0, 0.7)), url(static/historyandcultureprofile.png)
-    ;
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(0, 0, 0, 0.7)), url(static/historyandcultureprofile.png);
+         /*--(Groundwater, 2017)--*/
     background-position: center;
     background-size: cover;
     position: relative;
@@ -299,9 +303,9 @@ h3 {
  .headerHC{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.9), rgba(0, 0, 0, 0.9)), url(static/historyandcultureprofile.png)
-    ;
-    background-position: center;
+    background-image: linear-gradient(rgba(4,9,30,0.9), rgba(0, 0, 0, 0.9)), url(static/historyandcultureprofile.png);
+        /*--(Groundwater, 2017)--*/
+     background-position: center;
     background-size: cover;
     position: relative;
 }
@@ -364,8 +368,8 @@ h3 {
 .DSTheader{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(0, 0, 0, 0.7)), url(static/destinationsprofile.png)
-    ;
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(0, 0, 0, 0.7)), url(static/destinationsprofile.png);
+    /*--(Narita International Airport Corporation, 2024)--*/
     background-position: center;
     background-size: cover;
     position: relative;
@@ -402,28 +406,28 @@ h3 {
 }
 .DSTselect div:nth-of-type(2) {
     background: url(static/tohoku.png) no-repeat 50%/cover;
-}
+}/*--(mapleventurous, 2024)--*/
 .DSTselect div:nth-of-type(3) {
     background: url(static/planavisitprofile.png) no-repeat 50%/cover;
-}
+}/*--(Follow Me Away, 2019)--*/
 .DSTselect div:nth-of-type(4) {
     background: url(static/kanto.png) no-repeat 50%/cover;
-}
+}/*--(World Travel Guides, 2023)--*/
 .DSTselect div:nth-of-type(5) {
     background: url(static/tokai.png) no-repeat 50%/cover;
-}
+}/*--(Showa Travel Service, 2023)--*/
 .DSTselect div:nth-of-type(6) {
     background: url(static/kansai.png) no-repeat 50%/cover;
-}
+}/*--(Takanawa Travel, 2024)--*/
 .DSTselect div:nth-of-type(7) {
     background: url(static/chugoku.png) no-repeat 50%/cover;
-}
+}/*--(Expedia, 2024)--*/
 .DSTselect div:nth-of-type(8) {
     background: url(static/shikoku.png) no-repeat 50%/cover;
-}
+}/*--(Dyer, 2020)--*/
 .DSTselect div:nth-of-type(9) {
     background: url(static/kyushu.png) no-repeat 50%/cover;
-}
+}/*--(Michi Travel Japan, 2024)--*/
 
 .DSTselect div .content{
     color: #fff;
@@ -464,7 +468,8 @@ h3 {
 .cultureheader{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(0, 0, 0, 0.7)), url(static/galleryprofile.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(0, 0, 0, 0.7)), url(static/historyandcultureprofile.png);
+    /*--(Groundwater, B. 2017)--*/
     background-position: center;
     background-size: cover;
     position: relative;
