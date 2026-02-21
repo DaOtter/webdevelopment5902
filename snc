@@ -1,0 +1,1334 @@
+
+    
+    
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <title>Aerospace &amp; Defense - Sierra Nevada Corporation | SNC</title>
+    <meta name="description" content="Sierra Nevada Company (SNC) is a trusted leader in innovative, advanced technology solutions and open architecture integrations in aerospace and national security.">
+    <meta name="author" content="Sierra Nevada Corporation | SNC">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" crossorigin href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&amp;display=swap">
+
+
+    <link rel="stylesheet" href="/location.css" />
+
+    <link rel="icon" href="/assets/img/icon.png" />
+
+    
+    <link href="/assets/fonts/stylesheet.css?d=1" rel="stylesheet"><link href="/assets/icons/style.css?d=1" rel="stylesheet"><link href="/css/styles.css?d=1" rel="stylesheet"><link href="/css/custom.css?d=1" rel="stylesheet"><link href="/css/style-extd.css?d=1" rel="stylesheet"><link href="/vendor/fancybox/fancybox.css?d=1" rel="stylesheet"><link href="/vendor/slick/slick.css?d=1" rel="stylesheet"><link href="/css/select2.css?d=1" rel="stylesheet"><link href="/css/compiled.min.css?d=1" rel="stylesheet">
+    
+    <link rel="canonical" href="https://www.sncorp.com/" />
+    
+    <!-- Facebook tags -->
+    <meta property="og:url" content="https://www.sncorp.com/" />
+    <meta property="og:type" content="" />
+    <meta property="og:title" content="Aerospace &amp; Defense" />
+    <meta property="og:description" content="Sierra Nevada Company (SNC) is a trusted leader in innovative, advanced technology solutions and open architecture integrations in aerospace and national security." />
+    <meta property="og:image" content="https://www.sncorp.com/media/4o1djvwh/home-banner.jpg?width=1200&amp;height=630&amp;v=1dc9b9b6151f6f0" />
+    <meta property="og:image:secure_url" content="https://www.sncorp.com/media/4o1djvwh/home-banner.jpg?width=1200&amp;height=630&amp;v=1dc9b9b6151f6f0" />
+    <!-- Facebook tags -->
+    <!-- Twitter tags -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="https://www.sncorp.com/" />
+    <meta name="twitter:title" content="Aerospace &amp; Defense" />
+    <meta name="twitter:description" content="Sierra Nevada Company (SNC) is a trusted leader in innovative, advanced technology solutions and open architecture integrations in aerospace and national security." />
+    <meta name="twitter:image" content="https://www.sncorp.com/media/4o1djvwh/home-banner.jpg?width=1200&amp;height=630&amp;v=1dc9b9b6151f6f0" />
+    <!-- Twitter tags -->
+
+    <script src="/js/jquery.min.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WS3PDQ3');</script>
+<!-- End Google Tag Manager --><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16607436136"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+
+ gtag('config', 'AW-16607436136');
+</script>
+
+<script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+  ttd_dom_ready( function() {
+    if (typeof TTDUniversalPixelApi === 'function') {
+      var universalPixelApi = new TTDUniversalPixelApi();
+      universalPixelApi.init("dfo4zb5", ["1hraa8g"], "https://insight.adsrvr.org/track/up");
+    }
+  });
+</script>
+
+<meta name="google-site-verification" content="3HradG71GtC42fhxb8rSo9DqTX2KVJQWltXRt_dhc9o" /></head>
+
+<body class="home-page">
+    <div class="content-wrapper">
+        <header class="page-header">
+            
+
+    <div class="upper-navbar d-none d-lg-flex">
+        <div class="container">
+            <ul class="navbar-nav">
+                        <li>
+                            <a class="d-flex align-items-baseline" href="/contact-us/" title="Contact Us">
+                                Contact Us
+
+                            </a>
+                        </li>
+                        <li>
+                            <a class="d-flex align-items-baseline" href="/contact-us/" title="Affiliates &amp; Subsidiaries">
+                                Affiliates &amp; Subsidiaries
+
+                                    <span class="btn-expand btn btn-link d-flex" aria-label="dropdown">
+                                        <svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M5.02886 4.5L0.69873 0L9.35898 7.57104e-07L5.02886 4.5Z" fill="#FF4D00" />
+                                        </svg>
+                                    </span>
+                            </a>
+                                <div class="nav-menu-dropdown">
+                                    <div class="nav-dropdown-content d-flex">
+                                        <ul class="col">
+                                                    <li class="col-item">
+                                                        <a href=" https://www.sierraspace.com/" title="Sierra Space">
+                                                            <span>Sierra Space</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="col-item">
+                                                        <a href=" https://www.deutscheaircraft.com/" title="Deutsche Aircraft">
+                                                            <span>Deutsche Aircraft</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="col-item">
+                                                        <a href=" https://kuttatech.com/" title="Kutta Technologies">
+                                                            <span>Kutta Technologies</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="col-item">
+                                                        <a href=" https://www.3s-engineering.com/" title="3S Engineering &amp; Certification">
+                                                            <span>3S Engineering &amp; Certification</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="col-item">
+                                                        <a href=" https://www.straightflight.com/" title="Straight Flight">
+                                                            <span>Straight Flight</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="col-item">
+                                                        <a href=" https://www.sncmsuk.com/" title="SNC Mission Systems UK">
+                                                            <span>SNC Mission Systems UK</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="col-item">
+                                                        <a href=" https://www.sncaus.au/" title="SNC AUS">
+                                                            <span>SNC AUS</span>
+                                                        </a>
+                                                    </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </li>
+            </ul>
+        </div>
+    </div>
+
+<nav id="page-top-nav" class="navbar navbar-expand-lg">
+    <div class="container flex-column flex-lg-row">
+            <a href="/" class="navbar-brand d-none d-lg-flex" title="SNC">
+                <img height="32" src="/media/nbbdergt/snc-logo-initials-01.svg" alt="SNC" />
+            </a>
+                <div class="col-12 d-flex d-lg-none align-items-center justify-content-between mobile-nav">
+                        <a href="/" class="navbar-brand" title="SNC">
+                            <img height="32" src="/media/nbbdergt/snc-logo-initials-01.svg" alt="SNC" />
+                        </a>
+                    <button id="btn-hamburger" class="navbar-toggler" type="button" aria-label="Menu">
+                        <div class="hamburger hamburger--arrow">
+                            <div class="hamburger-box">
+                                <div class="hamburger-inner"></div>
+                            </div>
+                        </div>
+                    </button>
+                </div>
+                <div id="nav-menu" class="collapse navbar-collapse col-12 col-lg-auto">
+                    <ul class="navbar-nav">
+                            <li class="nav-item flex-column">
+                                <div class="main-nav d-flex justify-content-between justify-content-lg-start align-items-center align-items-lg-baseline">
+                                    <a class="nav-link" href="/capabilities/" title="Capabilities">Capabilities</a>
+                                        <button class="btn-expand btn btn-link" aria-label="dropdown">
+                                            <svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M5.02886 4.5L0.69873 0L9.35898 7.57104e-07L5.02886 4.5Z" fill="#FF4D00" />
+                                            </svg>
+                                        </button>
+                                </div>
+
+                                    <div class="nav-menu-dropdown">                                                    
+                                        <div class="nav-dropdown-content d-flex flex-column flex-lg-row">
+                                                <ul class="col">
+                                                        <li class="col-item">
+                                                                    <a class="nav-col-header" href="/capabilities/" title="Capabilities">
+                                                                        <span>Capabilities<i class="icon-arrow-right-solid"></i></span>
+                                                                        <span class="nav-col-header-underline"></span>
+                                                                    </a>
+                                                                    <ul>
+                                                                            <li class="sub-links">
+                                                                                <a href="/capabilities/aircraft-integration-modification/" title="Aircraft Integration &amp; Modification">
+                                                                                    <span>Aircraft Integration &amp; Modification</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="sub-links">
+                                                                                <a href="/capabilities/secure-isr-solutions/" title="Secure ISR Solutions">
+                                                                                    <span>Secure ISR Solutions</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="sub-links">
+                                                                                <a href="/capabilities/digital-rf/" title="Digital RF">
+                                                                                    <span>Digital RF</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="sub-links">
+                                                                                <a href="/capabilities/tactical-solutions/" title="Tactical Solutions">
+                                                                                    <span>Tactical Solutions</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="sub-links">
+                                                                                <a href="/capabilities/jadc2/" title="JADC2">
+                                                                                    <span>JADC2</span>
+                                                                                </a>
+                                                                            </li>
+                                                                    </ul>
+                                                        </li>
+                                                </ul>
+                                                <ul class="col">
+                                                        <li class="col-item">
+                                                                    <div class="nav-col-header">
+                                                                        <span>Domains</span>
+                                                                        <span class="nav-col-header-underline"></span>
+                                                                    </div>
+                                                                    <ul>
+                                                                            <li class="sub-links">
+                                                                                <a href="/domains/air/" title="Air">
+                                                                                    <span>Air</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="sub-links">
+                                                                                <a href="/domains/land/" title="Land">
+                                                                                    <span>Land</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="sub-links">
+                                                                                <a href="/domains/sea/" title="Sea">
+                                                                                    <span>Sea</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="sub-links">
+                                                                                <a href="/domains/space/" title="Space">
+                                                                                    <span>Space</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="sub-links">
+                                                                                <a href="/domains/cyber/" title="Cyber">
+                                                                                    <span>Cyber</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="sub-links">
+                                                                                <a href="/domains/all-domain/" title="All-Domain">
+                                                                                    <span>All-Domain</span>
+                                                                                </a>
+                                                                            </li>
+                                                                    </ul>
+                                                        </li>
+                                                </ul>
+                                        </div>                                      
+                                    </div>
+                            </li>
+                            <li class="nav-item flex-column">
+                                <div class="main-nav d-flex justify-content-between justify-content-lg-start align-items-center align-items-lg-baseline">
+                                    <a class="nav-link" href="/company/" title="Company">Company</a>
+                                        <button class="btn-expand btn btn-link" aria-label="dropdown">
+                                            <svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M5.02886 4.5L0.69873 0L9.35898 7.57104e-07L5.02886 4.5Z" fill="#FF4D00" />
+                                            </svg>
+                                        </button>
+                                </div>
+
+                                    <div class="nav-menu-dropdown">                                                    
+                                        <div class="nav-dropdown-content d-flex flex-column flex-lg-row">
+                                                <ul class="col">
+                                                        <li class="col-item">
+                                                                    <a href="/company/leadership/" title="Leadership">
+                                                                        <span>Leadership</span>
+                                                                    </a>
+                                                        </li>
+                                                        <li class="col-item">
+                                                                    <a href="/company/mission-vision-values-culture/" title="Mission, Vision, Values &amp; Culture">
+                                                                        <span>Mission, Vision, Values &amp; Culture</span>
+                                                                    </a>
+                                                        </li>
+                                                        <li class="col-item">
+                                                                    <a href="/company/business-areas/" title="Business Areas">
+                                                                        <span>Business Areas</span>
+                                                                    </a>
+                                                        </li>
+                                                        <li class="col-item">
+                                                                    <a href="/company/locations/" title="Locations">
+                                                                        <span>Locations</span>
+                                                                    </a>
+                                                        </li>
+                                                        <li class="col-item">
+                                                                    <a href="/company/60th-anniversary/" title="60th Anniversary">
+                                                                        <span>60th Anniversary</span>
+                                                                    </a>
+                                                        </li>
+                                                        <li class="col-item">
+                                                                    <a href="/company/ethics/" title="Ethics">
+                                                                        <span>Ethics</span>
+                                                                    </a>
+                                                        </li>
+                                                </ul>
+                                        </div>                                      
+                                    </div>
+                            </li>
+                            <li class="nav-item flex-column">
+                                <div class="main-nav d-flex justify-content-between justify-content-lg-start align-items-center align-items-lg-baseline">
+                                    <a class="nav-link" href="/careers/" title="Careers">Careers</a>
+                                        <button class="btn-expand btn btn-link" aria-label="dropdown">
+                                            <svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M5.02886 4.5L0.69873 0L9.35898 7.57104e-07L5.02886 4.5Z" fill="#FF4D00" />
+                                            </svg>
+                                        </button>
+                                </div>
+
+                                    <div class="nav-menu-dropdown">                                                    
+                                        <div class="nav-dropdown-content d-flex flex-column flex-lg-row">
+                                                <ul class="col">
+                                                        <li class="col-item">
+                                                                    <a class="nav-col-header" href="/careers/" title="SNC Careers">
+                                                                        <span>SNC Careers<i class="icon-arrow-right-solid"></i></span>
+                                                                        <span class="nav-col-header-underline"></span>
+                                                                    </a>
+                                                                    <ul>
+                                                                            <li class="sub-links">
+                                                                                <a href="/careers/how-we-hire/" title="How we hire">
+                                                                                    <span>How we hire</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="sub-links">
+                                                                                <a href="/careers/benefits/" title="Benefits">
+                                                                                    <span>Benefits</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="sub-links">
+                                                                                <a href="/careers/working-at-snc/" title="Working at SNC">
+                                                                                    <span>Working at SNC</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="sub-links">
+                                                                                <a href="/careers/veterans/" title="Veterans">
+                                                                                    <span>Veterans</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li class="sub-links">
+                                                                                <a href="/careers/students/" title="Students">
+                                                                                    <span>Students</span>
+                                                                                </a>
+                                                                            </li>
+                                                                    </ul>
+                                                        </li>
+                                                </ul>
+                                                <ul class="col">
+                                                        <li class="col-item">
+                                                                    <a href="https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/" title="Browse Open Positions">
+                                                                        <span>Browse Open Positions</span>
+                                                                    </a>
+                                                        </li>
+                                                        <li class="col-item">
+                                                                    <a href="https://pages.beamery.com/sncorpcomcareers/page/snc-genpage" title="Join Our Talent Pool">
+                                                                        <span>Join Our Talent Pool</span>
+                                                                    </a>
+                                                        </li>
+                                                </ul>
+                                        </div>                                      
+                                    </div>
+                            </li>
+                            <li class="nav-item flex-column">
+                                <div class="main-nav d-flex justify-content-between justify-content-lg-start align-items-center align-items-lg-baseline">
+                                    <a class="nav-link" href="/news-innovation/" title="News &amp; Innovation">News &amp; Innovation</a>
+                                        <button class="btn-expand btn btn-link" aria-label="dropdown">
+                                            <svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M5.02886 4.5L0.69873 0L9.35898 7.57104e-07L5.02886 4.5Z" fill="#FF4D00" />
+                                            </svg>
+                                        </button>
+                                </div>
+
+                                    <div class="nav-menu-dropdown">                                                    
+                                        <div class="nav-dropdown-content d-flex flex-column flex-lg-row">
+                                                <ul class="col">
+                                                        <li class="col-item">
+                                                                    <a href="/news-innovation/" title="News &amp; Innovation">
+                                                                        <span>News &amp; Innovation</span>
+                                                                    </a>
+                                                        </li>
+                                                        <li class="col-item">
+                                                                    <a href="/news-innovation/trade-shows/" title="Trade Shows">
+                                                                        <span>Trade Shows</span>
+                                                                    </a>
+                                                        </li>
+                                                </ul>
+                                        </div>                                      
+                                    </div>
+                            </li>
+                            <li class="nav-item flex-column">
+                                <div class="main-nav d-flex justify-content-between justify-content-lg-start align-items-center align-items-lg-baseline">
+                                    <a class="nav-link" href="/suppliers/" title="Suppliers">Suppliers</a>
+                                        <button class="btn-expand btn btn-link" aria-label="dropdown">
+                                            <svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M5.02886 4.5L0.69873 0L9.35898 7.57104e-07L5.02886 4.5Z" fill="#FF4D00" />
+                                            </svg>
+                                        </button>
+                                </div>
+
+                                    <div class="nav-menu-dropdown">                                                    
+                                        <div class="nav-dropdown-content d-flex flex-column flex-lg-row">
+                                                <ul class="col">
+                                                        <li class="col-item">
+                                                                    <a href="/suppliers/doing-business-with-snc/" title="Doing Business With SNC">
+                                                                        <span>Doing Business With SNC</span>
+                                                                    </a>
+                                                        </li>
+                                                        <li class="col-item">
+                                                                    <a href="/suppliers/supplier-resources-feedback/" title="Supplier Resources &amp; Feedback">
+                                                                        <span>Supplier Resources &amp; Feedback</span>
+                                                                    </a>
+                                                        </li>
+                                                        <li class="col-item">
+                                                                    <a href="/suppliers/data-protection-cyber-security/" title="Data Protection &amp; Cyber Security">
+                                                                        <span>Data Protection &amp; Cyber Security</span>
+                                                                    </a>
+                                                        </li>
+                                                        <li class="col-item">
+                                                                    <a href="/suppliers/existing-suppliers/" title="Existing Suppliers">
+                                                                        <span>Existing Suppliers</span>
+                                                                    </a>
+                                                        </li>
+                                                </ul>
+                                        </div>                                      
+                                    </div>
+                            </li>
+
+                                <li class="nav-item flex-column flex-lg-row d-lg-none">
+                                    <div class="main-nav">
+                                        <a class="nav-link" href="/contact-us/" title="Contact Us">
+                                            Contact Us
+                                        </a>
+                                    </div>
+                                    
+                                </li>
+                                <li class="nav-item flex-column flex-lg-row d-lg-none">
+                                    <div class="main-nav">
+                                        <a class="nav-link" href="/contact-us/" title="Affiliates &amp; Subsidiaries">
+                                            Affiliates &amp; Subsidiaries
+                                        </a>
+                                            <button class="btn-expand btn btn-link" aria-label="dropdown">
+                                                <svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M5.02886 4.5L0.69873 0L9.35898 7.57104e-07L5.02886 4.5Z" fill="#FF4D00" />
+                                                </svg>
+                                            </button>
+                                    </div>
+                                    
+                                        <div class="nav-menu-dropdown">
+                                            <div class="nav-dropdown-content d-flex flex-column flex-lg-row">
+                                                <ul class="col">
+                                                            <li class="col-item">
+                                                                <a href="https://www.sierraspace.com/" title="Sierra Space">
+                                                                    <span>Sierra Space</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="col-item">
+                                                                <a href="https://www.deutscheaircraft.com/" title="Deutsche Aircraft">
+                                                                    <span>Deutsche Aircraft</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="col-item">
+                                                                <a href="https://kuttatech.com/" title="Kutta Technologies">
+                                                                    <span>Kutta Technologies</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="col-item">
+                                                                <a href="https://www.3s-engineering.com/" title="3S Engineering &amp; Certification">
+                                                                    <span>3S Engineering &amp; Certification</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="col-item">
+                                                                <a href="https://www.straightflight.com/" title="Straight Flight">
+                                                                    <span>Straight Flight</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="col-item">
+                                                                <a href="https://www.sncmsuk.com/" title="SNC Mission Systems UK">
+                                                                    <span>SNC Mission Systems UK</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="col-item">
+                                                                <a href="https://www.sncaus.au/" title="SNC AUS">
+                                                                    <span>SNC AUS</span>
+                                                                </a>
+                                                            </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                </li>
+
+                        <li class="nav-item nav-search" id="et-search">
+                            <form action="/search" class="search-box">
+                                <input type="text" class="search-input" placeholder="Type to search" name="s" id="searchtextBox">
+                                <button type="button" class="btn btn-search" aria-label="search">
+                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M7.00438 0C3.13539 0 0 3.13585 0 7.00528C0 10.8747 3.13539 14.0106 7.00438 14.0106C8.55861 14.0106 9.99718 13.5021 11.1593 12.6431L14.2076 15.6919C14.4137 15.898 14.6808 16 14.9501 16C15.218 16 15.4887 15.899 15.6933 15.6912C16.1025 15.2813 16.1022 14.6164 15.6926 14.2068L12.6427 11.1564C13.5008 9.9947 14.0088 8.55893 14.0088 7.00254C14.0088 3.13579 10.8733 0 7.00438 0ZM2.10109 7.00528C2.10109 4.30078 4.30032 2.10131 7.00438 2.10131C9.70845 2.10131 11.9077 4.30078 11.9077 7.00528C11.9077 9.70978 9.70845 11.9092 7.00438 11.9092C4.30032 11.9092 2.10109 9.70978 2.10109 7.00528Z" fill="#132C50" />
+                                    </svg>
+                                </button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+    </div>
+</nav>
+        </header>
+        
+            
+    <div class="banner-wrap banner-fw banner-slide-wrap">
+        <ul class="bannerSlider cust-slider">
+                <li class="slide banner-inner" style="background-image:url(/media/3usdrala/freedom.jpg?rxy=0.6118440094738045,0.51572031630015&amp;width=1920&amp;height=700&amp;v=1dc3a2efab6e8b0&format=webp&quality=80);">
+                    <div class="position-relative h-100">
+                        <div class="container banner-content h-100 px-0 flex-column flex-sm-row">
+                            <div class="banner-text-notch col-12 col-sm-9 col-md-8 col-lg-7 col-xl-6 col-xxxl-5" data-aos="fade-down">
+                                    <div class="p-lg"><h2>SNC: Freedom<br>for UJTS</h2>
+<p><br>Train the Way You Fight.<br>Zero Compromise.<br><br></p></div>
+                                    <a href="/capabilities/freedom/" class="btn btn-outline" title="Explore Freedom">Explore Freedom</a>
+                            </div>
+                            <div class="banner-image col-12 d-sm-none" data-aos="fade-up">
+                                <div class="banner-image-inner">
+                                    <img src="/media/3usdrala/freedom.jpg?rxy=0.6118440094738045,0.51572031630015&amp;width=1920&amp;height=700&amp;v=1dc3a2efab6e8b0&format=webp&quality=80" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="slide banner-inner" style="background-image:url(/media/k0zktove/saoc.jpg?width=1920&amp;height=700&amp;v=1dc3a2f105ce6b0&format=webp&quality=80);">
+                    <div class="position-relative h-100">
+                        <div class="container banner-content h-100 px-0 flex-column flex-sm-row">
+                            <div class="banner-text-notch col-12 col-sm-9 col-md-8 col-lg-7 col-xl-6 col-xxxl-5" data-aos="fade-down">
+                                    <div class="p-lg"><h2>SNC: Global Leader<br>in Aerospace and Defense</h2>
+<p><br>SNC named as lead systems integrator to modernize aerial military intelligence</p></div>
+                                    <a href="https://www.sncorp.com/news-archive/snc-marks-successful-saoc-contract-milestone-with-flight-of-first-aircraft-to-national-institute-of-aviation-research/" class="btn btn-outline" title="Read Press Release">Read Press Release</a>
+                            </div>
+                            <div class="banner-image col-12 d-sm-none" data-aos="fade-up">
+                                <div class="banner-image-inner">
+                                    <img src="/media/k0zktove/saoc.jpg?width=1920&amp;height=700&amp;v=1dc3a2f105ce6b0&format=webp&quality=80" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+        </ul>
+    </div>
+
+            
+<section class="news-section py-5 bg-cool-grey-95">
+    <div class="container">
+        <div class="d-grid news-grid-wide-wrap pb-1">
+            <div class="news-title-item mb-auto" >
+                <div class="news-title-item-inner">
+                    <div class="img-text-content ">
+                            <h2 class="news-item-title mb-2 fw-bold">NEWS & INNOVATION</h2>
+                        <p>Learn more about how our mission-focused solutions can help solve your aerospace, security and defense challenges.</p>
+                            <a href="/news-innovation/" class="btn btn-reverse d-none" title="View All">
+                                View All <i class="icon icon-arrow-right-solid"></i>
+                            </a>
+                    </div>
+                </div>
+            </div>
+                <a href="/news-archive/snc-signs-charter-with-northrop-grumman-and-general-atomics-aeronautical-systems-to-deliver-freedom-trainer-for-ujts/" class="news-grid-item news-grid-item_wide d-flex btn-link-parent" title="SNC Signs Charter with Northrop Grumman and General Atomics Aeronautical Systems to Deliver Freedom Trainer&#x2122; for UJTS  ">
+                    <div class="news-card news-card_wide d-lg-flex">
+                        <figure class="news-img mb-0">
+                            <img src="/media/or0pzxif/freedom-aircraft-silhouette-06-641x338-0f9dd03.png?rxy=0.4717902177055932,0.48659964958973917&amp;width=600&amp;height=400&amp;v=1dc9b98104083b0&format=webp&quality=80" alt="SNC Signs Charter with Northrop Grumman and General Atomics Aeronautical Systems to Deliver Freedom Trainer&#x2122; for UJTS  " class="img-fluid" />
+                        </figure>
+                        <div class="news-grid-content bg-white p-20p">
+                            <div class="tag-name">PRESS RELEASE</div>
+                            <h6 class="news-grid-title">SNC Signs Charter with Northrop Grumman and General Atomics Aeronautical Systems to Deliver Freedom Trainer™ for UJTS  </h6>
+                            <p class="p-sm text-muted">
+                                SNC, a global leader in aerospace and national security, today announced it signed an Executive Charter with Northrop Grumman (NYSE: NOC) and General Atomics Aeronautical Systems, Inc. (GA-ASI) to define and execute production and manufacturing teaming relationships for its Freedom Trainer&#x2122;. This strategic collaboration would combine SNC&#x2019;s clean-sheet design with the expertise of Northrop Grumman and GA-ASI, to deliver a zero-compromise training solution for the U.S. Navy&#x2019;s Undergraduate Jet Training System (UJTS) program.
+                            </p>
+                            <span class="btn-link-text">
+                                Read Now <i class="icon-arrow-right-solid"></i>
+                            </span>
+                        </div>
+                    </div>
+                </a>
+        </div>
+    </div>
+</section>
+            
+<div class="col-12 transition-seamless seamless-top " style="background-color:#f2f2f3"></div>
+<div class="col-12 section-transition top-to-btm ">
+    <div class="col-12 transition-top " style="background-color:#f2f2f3"></div>
+    <div class="col-12 transition-btm " style="background-color:#132c50"></div>
+    <div class="transition-border"></div>
+</div>
+<div class="col-12 transition-seamless seamless-btm " style="background-color:#132c50"></div>
+
+                <section class="main-section ready-to-take bg-snc-blue image-style-bottom  layout-reg" style="background-image:url();">
+        <div class="container">
+            <div class="d-flex flex-wrap align-items-center position-relative" style="gap:2rem;">
+                <div class="d-flex flex-column justify-content-center col-12 col-lg-6 col-xl-5 ">
+                    <div class="mb-2">
+                        <div class="p-md"><h2>More than a job.<br>It’s a mission.</h2>
+<p><br>Let your career soar at SNC.</p></div>
+                    </div>
+                        <div class="">
+                            <a href="https://flows.beamery.com/sncorpcomcareers/SAOC_join_us" class="btn btn-outline btn-reverse"
+                        title="JOIN OUR TALENT POOL">JOIN OUR TALENT POOL</a>
+                        </div>
+                </div>
+                <figure class="ready-take-img-wrap bottom col-12 col-lg text-center ">
+                    <div class="" data-aos="fade-down-left" data-aos-anchor-placement="bottom-bottom">
+                            <img width="650" height="400" loading="lazy" src="/media/xgrpz3nv/engineers.png?format=webp&quality=80" style="transform: scale(1.0)" class="img-fluid" alt="" />
+                        </div>
+                    </figure>
+
+            </div>
+        </div>
+    </section>
+            
+<div class="col-12 transition-seamless seamless-top " style="background-color:#132c50"></div>
+<div class="col-12 section-transition btm-to-top add-border">
+    <div class="col-12 transition-top " style="background-color:#132c50"></div>
+    <div class="col-12 transition-btm bg-dot" style="background-color:#f2f2f3"></div>
+    <div class="transition-border"></div>
+</div>
+<div class="col-12 transition-seamless seamless-btm bg-dot" style="background-color:#f2f2f3"></div>
+
+            
+
+<section class="main-section capability-section bg-dot bg-cool-grey-95">
+    <div class="container">
+        <div class="col-12 mx-auto">
+
+                <h2 class="text-center">Our Capabilities</h2>
+            
+
+                <div class="capability-grid d-flex flex-wrap col-12 col-sm-10 col-md-12 col-lg-11 col-xl-10 col-xxxl-9 mx-auto">
+
+                        <div class="col-12 col-md-6 mx-auto">
+
+                            <h5>Aircraft Integration & Modification</h5>
+                                    <p>
+                                        Optimize operations with innovative, modular, mission-tailored aircraft system design and modification solutions.
+                                    </p>
+                            <a class="btn btn-link" href="/capabilities/aircraft-integration-modification/" title="Aircraft Integration &amp; Modification">
+                                Learn More <i class="icon-arrow-right-solid"></i>
+                            </a>
+                        </div>
+                        <div class="col-12 col-md-6 mx-auto">
+
+                            <h5>Secure ISR Solutions</h5>
+                                    <p>
+                                        Swift, flexible and comprehensive C5ISR solutions designed to solve the most difficult operational challenges.
+                                    </p>
+                            <a class="btn btn-link" href="/capabilities/secure-isr-solutions/" title="Secure ISR Solutions">
+                                Learn More <i class="icon-arrow-right-solid"></i>
+                            </a>
+                        </div>
+                        <div class="col-12 col-md-6 mx-auto">
+
+                            <h5>Digital RF</h5>
+                                    <p>
+                                        Re-engineering the connected battlefield through interoperable solutions from sensor-to-shooter, across all domains.
+                                    </p>
+                            <a class="btn btn-link" href="/capabilities/digital-rf/" title="Digital RF">
+                                Learn More <i class="icon-arrow-right-solid"></i>
+                            </a>
+                        </div>
+                </div>
+                    <div class="text-center">
+                        <a href="/capabilities/" class="btn btn-outline" title="See All">See All</a>
+                    </div>
+        </div>
+    </div>
+</section>
+            
+<div class="col-12 transition-seamless seamless-top bg-dot" style="background-color:#f2f2f3"></div>
+<div class="col-12 section-transition top-to-btm add-border">
+    <div class="col-12 transition-top bg-dot" style="background-color:#f2f2f3"></div>
+    <div class="col-12 transition-btm " style="background-color:#ffffff"></div>
+    <div class="transition-border"></div>
+</div>
+<div class="col-12 transition-seamless seamless-btm " style="background-color:#ffffff"></div>
+
+            
+<section class="main-section our-impact-section">
+  <div class="container">
+    <div class="d-flex flex-wrap col-12 col-xl-11 col-xxl-10 mx-auto">
+      <div class="col-12 col-md-10 col-lg mx-auto d-flex flex-column align-items-start justify-content-center">
+          <h2>Our Impact</h2>
+          <div class="p-md"><p style="text-align: left;">Led by diverse and passionate teams of scientists, engineers and dedicated professionals, we work together to solve difficult challenges in aerospace, security and defense to help our government, global partners and commercial customers achieve their missions — safely and securely.</p></div>
+      </div>
+        <div class="col-12 col-lg-6 col-xl-7">
+          <div id="counter" class="counter-wrap counters-3">           
+
+              <div class="counter-item bg-dark">
+                <div class="counter rounded-circle text-center">
+                  <span class="counter-count">
+                    <span class="counter-value" data-count="4"></span>K&#x2B;
+                  </span>
+                  <span class="counter-text">Employees</span>
+                </div>
+              </div>
+              <div class="counter-item bg-dark">
+                <div class="counter rounded-circle text-center">
+                  <span class="counter-count">
+                    <span class="counter-value" data-count="60"></span>&#x2B;
+                  </span>
+                  <span class="counter-text">Years of Experience</span>
+                </div>
+              </div>
+              <div class="counter-item bg-dark">
+                <div class="counter rounded-circle text-center">
+                  <span class="counter-count">
+                    <span class="counter-value" data-count="40"></span>&#x2B;
+                  </span>
+                  <span class="counter-text">Global Locations</span>
+                </div>
+              </div>
+          </div>
+        </div>
+    </div>
+  </div>
+</section>
+            
+<section class="main-section alternate-image-crop">
+    <div class="container">
+        <div class="d-grid img-text-grid">
+                <div class="mw-640">
+            <img width="640" height="485" loading="lazy" src="/media/cxlorhtx/emp-brand_8.jpg?format=webp&quality=80" class="img-fluid" alt="Join The Team">
+                </div>
+                <div class="mw-590 pt-sm-5">
+            <h2>Join The Team</h2>
+            <div class="p-md"><p>Our vision is to become the leading aerospace, security and defense innovator, while protecting freedom, making the world a better place, and inspiring the next generation.</p></div>
+                <a title="Join The Team" href="/careers/" class="btn btn-link">
+                    Careers <i class="icon-arrow-right-solid"></i>
+                </a>
+                </div>
+        </div>
+    </div>
+</section>
+
+
+            
+<section class="main-section alternate-image-crop">
+    <div class="container">
+        <div class="d-grid img-text-grid">
+                <div class="mw-590 pt-sm-5 order-2 order-sm-1">
+            <h2>Social Impact</h2>
+            <div class="p-md"><p>Our mission and pay-it-forward culture are strengthened by the efforts of the Ozmen Foundation, corporate donations and employee volunteerism to drive innovation, fuel entrepreneurship and make a difference in our local, national and global communities.​</p></div>
+                <a title="Social Impact" href="/company/" class="btn btn-outline">
+                    Company
+                </a>
+                </div>
+                <div class="mw-640 order-1 order-sm-2 overflow-hidden">
+                    <div data-aos="fade-left">
+            <img width="640" height="485" loading="lazy" src="/media/3erh0cwu/social_impact_fn.png?format=webp&quality=80" class="img-fluid" alt="Social Impact">
+                    </div>
+                </div>
+        </div>
+    </div>
+</section>
+
+
+            
+<section class="main-section news-section   bg-fixed bg-cool-grey-95" style="">
+        <div class=" top-inner-shadow w-100 position-absolute"></div>
+    <div class="container feature-news-notexist">
+            <div class="d-grid  news-grid-wide-wrap mb-1 mb-sm-5 pb-1">
+                    <div class="news-title-item mb-auto" >
+                        <div class="news-title-item-inner">
+                            <div class="img-text-content">
+                                    <h2 class="news-item-title mb-2 fw-bold">News & Innovation</h2>
+
+                                    <p class="mb-0 mb-sm-2 pe-3 pe-sm-0"><p>Learn more about how our mission-focused solutions can help solve your aerospace, security and defense challenges.</p></p>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+            <div class="news-wrap-grid">
+                <div class="news-grid news-grid-2 d-grid gap-5">
+                        <div class="news-grid-item " >
+                            <a href="/news-archive/snc-invests-in-the-future-of-the-army-procures-fourth-hades-aircraft/" class="news-grid-item h-100 btn-link-parent" title="SNC Invests in the Future of the Army, Procures Fourth HADES Aircraft">
+                                <div class="news-card d-flex flex-column h-100">
+                                        <figure class="news-img mb-0 flex-shrink-0">
+                                            <img src="/media/wdib2uk1/hades-prototype-pr.png?rxy=0.2495314334262334,0.524071099192698&amp;width=600&amp;height=400&amp;v=1dc84ba3403f3d0&format=webp&quality=80" loading="lazy" alt="SNC&#x27;s fourth HADES Aircraft" class="img-fluid" />
+                                        </figure>
+                                    <div class="news-grid-content bg-white p-20p h-100">
+                                            <div class="tag-name">PRESS RELEASE</div>
+                                            <h6 class="news-grid-title">SNC Invests in the Future of the Army, Procures Fourth ...</h6>
+                                            <p class="p-sm text-muted d-none d-sm-block">SNC has answered the Pentagon&#x2019;s call to lean forward through investment to drive innovation and speed in future-proof technology. At the close of 2025, the company purchased at its own expense, a Bombardier Global 6500 aircraft intended for the Army&#x2019;s High Accuracy Detection and Exploitation System (HADES) program of record. </p>
+                                        <span class="btn-link-text">
+                                            Read Now <i class="icon-arrow-right-solid"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="news-grid-item " >
+                            <a href="/news-archive/snc-recognized-as-a-us-best-managed-company-for-third-year/" class="news-grid-item h-100 btn-link-parent" title="SNC Recognized as a US Best Managed Company for Third Year">
+                                <div class="news-card d-flex flex-column h-100">
+                                        <figure class="news-img mb-0 flex-shrink-0">
+                                            <img src="/media/tr5jzy1z/snc_bestcompanies_2025-01.jpg?width=600&amp;height=400&amp;v=1dbc4e8137edea0&format=webp&quality=80" loading="lazy" alt="SNC Recognized as a US Best Managed Company for Third Year" class="img-fluid" />
+                                        </figure>
+                                    <div class="news-grid-content bg-white p-20p h-100">
+                                            <div class="tag-name">PRESS RELEASE</div>
+                                            <h6 class="news-grid-title">SNC Recognized as a US Best Managed Company for Third Y...</h6>
+                                            <p class="p-sm text-muted d-none d-sm-block">SNC welcomes Andrew Auerbach as vice president of technology within its Missions Systems &amp; Technologies (MST) business area.</p>
+                                        <span class="btn-link-text">
+                                            Read Now <i class="icon-arrow-right-solid"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="news-grid-item d-none d-sm-block" >
+                            <a href="/news-archive/snc-marks-arrival-of-fourth-saoc-aircraft-at-its-aviation-innovation-and-technology-center/" class="news-grid-item h-100 btn-link-parent" title="SNC Marks Arrival of Fourth SAOC Aircraft at its Aviation Innovation and Technology Center">
+                                <div class="news-card d-flex flex-column h-100">
+                                        <figure class="news-img mb-0 flex-shrink-0">
+                                            <img src="/media/1rhf2o1o/snc_saoc_dayton-01.png?width=600&amp;height=400&amp;v=1dbb9c771f25920&format=webp&quality=80" loading="lazy" alt="SNC Marks Arrival of Fourth SAOC Aircraft at its Aviation Innovation and Technology Center" class="img-fluid" />
+                                        </figure>
+                                    <div class="news-grid-content bg-white p-20p h-100">
+                                            <div class="tag-name">PRESS RELEASE</div>
+                                            <h6 class="news-grid-title">SNC Marks Arrival of Fourth SAOC Aircraft at its Aviati...</h6>
+                                            <p class="p-sm text-muted d-none d-sm-block">Major milestone comes as SNC observes one-year anniversary of contract win &#xA;</p>
+                                        <span class="btn-link-text">
+                                            Read Now <i class="icon-arrow-right-solid"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                </div>
+                    <div class="text-center mt-sm-5 pt-3">
+                        <a href="/news-innovation/" class="btn btn-outline" title="VIEW ALL NEWS">
+                            VIEW ALL NEWS
+                        </a>
+                    </div>
+            </div>
+    </div>
+</section>
+            
+<div class="col-12 transition-seamless seamless-top " style="background-color:#f2f2f3"></div>
+<div class="col-12 section-transition top-to-btm ">
+    <div class="col-12 transition-top " style="background-color:#f2f2f3"></div>
+    <div class="col-12 transition-btm " style="background-color:#132c50"></div>
+    <div class="transition-border"></div>
+</div>
+<div class="col-12 transition-seamless seamless-btm " style="background-color:#132c50"></div>
+
+                <section class="main-section ready-to-take bg-snc-blue image-style-top-overlay  layout-reg" style="background-image:url();">
+        <div class="container">
+            <div class="d-flex flex-wrap align-items-center position-relative" style="gap:2rem;">
+                <div class="d-flex flex-column justify-content-center col-12 col-lg-6 col-xl-5 ">
+                    <div class="mb-2">
+                        <div class="p-md"></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+                <section class="main-section ready-to-take bg-snc-blue image-style-top-overlay  layout-reg" style="background-image:url();">
+        <div class="container">
+            <div class="d-flex flex-wrap align-items-center position-relative" style="gap:2rem;">
+                <div class="d-flex flex-column justify-content-center col-12 col-lg-6 col-xl-5 ">
+                    <div class="mb-2">
+                            <h2 class="h1">Ready to take the next step?</h2>
+                        <div class="p-md"><p>Learn more about how our mission-focused solutions can help solve your aerospace, security and defense challenges. Contact us today.</p></div>
+                    </div>
+                        <div class="">
+                            <a href="/contact-us/" class="btn btn-outline btn-reverse"
+                        title="Contact Us">Contact Us</a>
+                        </div>
+                </div>
+                <figure class="ready-take-img-wrap top-overlay col-12 col-lg text-center ">
+                    <div class="" data-aos="fade-down-left" data-aos-anchor-placement="bottom-bottom">
+                            <img width="650" height="400" loading="lazy" src="/media/kkgfcmtl/home-silo-cta-01.png?format=webp&quality=80" style="transform: scale(1.0)" class="img-fluid" alt="Ready to take the next step?" />
+                        </div>
+                    </figure>
+
+            </div>
+        </div>
+    </section>
+            
+<div class="col-12 transition-seamless seamless-top " style="background-color:#132c50"></div>
+<div class="col-12 section-transition btm-to-top ">
+    <div class="col-12 transition-top " style="background-color:#132c50"></div>
+    <div class="col-12 transition-btm " style="background-color:#F9FAFB"></div>
+    <div class="transition-border"></div>
+</div>
+<div class="col-12 transition-seamless seamless-btm " style="background-color:#F9FAFB"></div>
+
+
+
+    </div>
+    
+<footer class="footer" id="footer">
+    <div class="container">
+        <div class="footer-top d-flex flex-column flex-lg-row flex-wrap">
+            <div class="social-wrap col-12 col-xl">
+                    <p class="footer-col-header tagline justify-content-start">DREAM. INNOVATE. INSPIRE.<sup>®</sup></p>
+
+                <div class="p-sm"><p>We deliver innovative, open architecture technology solutions that empower and protect our customers, wherever their missions take them.</p></div>
+
+                <ul class="footer-social">
+                        <li>
+                            <a href="https://www.facebook.com/SierraNevCorp/" title="Facebook">
+                                <i class="icon icon-facebook"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/company/sierra-nevada-corporation/" title="LinkedIn">
+                                <i class="icon icon-linkedin"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/sierranevcorp/" title="Instagram">
+                                <i class="icon icon-instagram"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/sierranevcorp/" title="Twitter">
+                                <i class="icon icon-twitter"></i>
+                            </a>
+                        </li>
+                </ul>
+            </div>
+
+                <div class="footer-nav col-12 col-xl-9 d-flex flex-column flex-lg-row">
+                        <ul class="col-12 col-md">
+
+                                <li class="footer-col-item">
+
+                                            <div class="footer-col-header">
+                                                <a href="/company/" title="Company">
+                                                    Company<i class="icon-arrow-right-solid"></i>
+                                                </a>
+                                                    <button class="btn-expand btn btn-link d-lg-none" aria-label="dropdown">
+                                                        <svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M5.02886 4.5L0.69873 0L9.35898 7.57104e-07L5.02886 4.5Z" fill="#FF4D00" />
+                                                        </svg>
+                                                    </button>
+                                            </div>
+                                            <div class="footer-dropdown">
+                                                <ul>
+                                                        <li class="sub-links">
+                                                            <a href="/company/about-snc/" title="About">
+                                                                About
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="/careers/" title="Careers">
+                                                                Careers
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="/contact-us/" title="Contact Us">
+                                                                Contact Us
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="/company/locations/" title="Locations">
+                                                                Locations
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="/news-innovation/" title="News &amp; Innovation">
+                                                                News &amp; Innovation
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="/suppliers/" title="Suppliers">
+                                                                Suppliers
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="https://store.sncorp.com/?_gl=1*1iroki6*_gcl_au*MTQxODcyNTYzMS4xNzMxMzYyOTUx" title="SNC Store">
+                                                                SNC Store
+                                                            </a>
+                                                        </li>
+                                                </ul>
+                                            </div>
+                                </li>
+                        </ul>
+                        <ul class="col-12 col-md">
+
+                                <li class="footer-col-item">
+
+                                            <div class="footer-col-header">
+                                                <a href="/capabilities/" title="Capabilities">
+                                                    Capabilities<i class="icon-arrow-right-solid"></i>
+                                                </a>
+                                                    <button class="btn-expand btn btn-link d-lg-none" aria-label="dropdown">
+                                                        <svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M5.02886 4.5L0.69873 0L9.35898 7.57104e-07L5.02886 4.5Z" fill="#FF4D00" />
+                                                        </svg>
+                                                    </button>
+                                            </div>
+                                            <div class="footer-dropdown">
+                                                <ul>
+                                                        <li class="sub-links">
+                                                            <a href="/capabilities/aircraft-integration-modification/" title="Aircraft Integration &amp; Modification">
+                                                                Aircraft Integration &amp; Modification
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="/capabilities/secure-isr-solutions/" title="Secure ISR Solutions">
+                                                                Secure ISR Solutions
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="/capabilities/digital-rf/" title="Digital RF">
+                                                                Digital RF
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="/capabilities/jadc2/" title="JADC2">
+                                                                JADC2
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="/capabilities/tactical-solutions/" title="Tactical Solutions">
+                                                                Tactical Solutions
+                                                            </a>
+                                                        </li>
+                                                </ul>
+                                            </div>
+                                </li>
+                        </ul>
+                        <ul class="col-12 col-md">
+
+                                <li class="footer-col-item">
+
+                                            <div class="footer-col-header header-static">
+                                                <span>Domains</span>
+                                                    <button class="btn-expand btn btn-link d-lg-none" aria-label="dropdown">
+                                                        <svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M5.02886 4.5L0.69873 0L9.35898 7.57104e-07L5.02886 4.5Z" fill="#FF4D00" />
+                                                        </svg>
+                                                    </button>
+                                            </div>
+                                            <div class="footer-dropdown">
+                                                <ul>
+                                                        <li class="sub-links">
+                                                            <a href="/domains/air/" title="Air">
+                                                                Air
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="/domains/land/" title="Land">
+                                                                Land
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="/domains/sea/" title="Sea">
+                                                                Sea
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="/domains/space/" title="Space">
+                                                                Space
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="/domains/cyber/" title="Cyber">
+                                                                Cyber
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="/domains/all-domain/" title="All-Domain">
+                                                                All-Domain
+                                                            </a>
+                                                        </li>
+                                                </ul>
+                                            </div>
+                                </li>
+                        </ul>
+                        <ul class="col-12 col-md">
+
+                                <li class="footer-col-item">
+
+                                            <div class="footer-col-header header-static">
+                                                <span>Affiliates &amp; Subsidiaries</span>
+                                                    <button class="btn-expand btn btn-link d-lg-none" aria-label="dropdown">
+                                                        <svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M5.02886 4.5L0.69873 0L9.35898 7.57104e-07L5.02886 4.5Z" fill="#FF4D00" />
+                                                        </svg>
+                                                    </button>
+                                            </div>
+                                            <div class="footer-dropdown">
+                                                <ul>
+                                                        <li class="sub-links">
+                                                            <a href="https://www.sierraspace.com/" title="Sierra Space">
+                                                                Sierra Space
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="https://www.deutscheaircraft.com/" title="Deutsche Aircraft">
+                                                                Deutsche Aircraft
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="https://kuttatech.com/" title="Kutta Technologies">
+                                                                Kutta Technologies
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="https://www.3s-engineering.com/" title="3S Engineering &amp; Certification">
+                                                                3S Engineering &amp; Certification
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="https://www.straightflight.com/" title="Straight Flight">
+                                                                Straight Flight
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="https://www.sncmsuk.com/" title="SNC Mission Systems UK">
+                                                                SNC Mission Systems UK
+                                                            </a>
+                                                        </li>
+                                                        <li class="sub-links">
+                                                            <a href="https://www.sncaus.au/" title="SNC AUS&#x2122;">
+                                                                SNC AUS&#x2122;
+                                                            </a>
+                                                        </li>
+                                                </ul>
+                                            </div>
+                                </li>
+                        </ul>
+
+                </div>
+        </div>
+    </div>
+
+    <div class="footer-bottom">
+        <div class="container text-center">
+                    <ul class="col-12 d-flex flex-column flex-md-row">
+                            <li>
+                                <a href="/terms-of-use/" title="Terms &amp; Conditions">Terms &amp; Conditions</a>
+                            </li>
+                            <li>
+                                <a href="/terms-of-use/#" title="Website User Agreement">Website User Agreement</a>
+                            </li>
+                            <li>
+                                <a href="/privacy-policy/" title="Privacy Policy">Privacy Policy</a>
+                            </li>
+                            <li>
+                                <a href="/sitemap.xml" title="Sitemap">Sitemap</a>
+                            </li>
+                    </ul>
+
+            <div class="fyin-logo d-none">
+                <a href="https://fyin.com/">
+                    <img src="/assets/img/powered-by-fyin.svg" alt="Umbraco Web Development">
+                </a>
+            </div>
+        </div>
+    </div>
+
+</footer>
+
+
+    <div class="modal-overlay" id="modal-overlay"></div>
+
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/index.js?v=1.5"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="/vendor/fancybox/fancybox.umd.js?1.0"></script>
+    <script type="text/javascript" src="/vendor/slick/slick.min.js"></script>
+    <script type="text/javascript" src="/js/countdownFeature.js"></script>
+    <script src="/js/scripts.js"></script>
+
+    
+    <script>
+        $(function () {
+            $('.image-gallery').slick({
+                dots: false,
+                infinite: true,
+                speed: 300,
+                slidesToShow: 3,
+                centerMode: true,
+                variableWidth: true,
+                centerPadding: '60px',
+                prevArrow: '<button type="button" class="btn slick-prev btn-slick"><i class="icon icon-chevron-left"></i></button>',
+                nextArrow: '<button type="button" class="btn slick-next btn-slick"><i class="icon icon-chevron-right"></i></button>',
+                responsive: [
+                    {
+                        breakpoint: 768,
+                        settings: {
+                            centerPadding: '20px',
+                            slidesToShow: 1,
+                            variableWidth: false,
+                        }
+                    },
+                ],
+            });
+
+            $('.closeAlert').click(function () {
+                $(this).parent().slideUp();
+                window.localStorage.setItem('alert_box_cookies', true);
+            })
+            $(document).ready(function () {
+                if (!window.localStorage.getItem('alert_box_cookies')) {
+                    $('#alertBox').css('display', 'block');
+                }
+            });
+        });
+
+        $(".bannerSlider").slick({
+            autoplay: true,
+            autoplaySpeed: 5000,
+            infinite: true,
+            dots: true,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            arrows: false,
+            speed: 500,
+            useTransform: false,
+            adaptiveHeight:true,
+            mobileFirst:true,
+            responsive: [
+                {
+                    breakpoint:576,
+                    settings: {
+                        adaptiveHeight:false
+                    }
+                }
+            ]
+        });
+
+        $('.carouselFeature').each(function(){
+
+            const $wrapper = $(this);
+            const $container = $wrapper.find('.carouselFeatureContainer');
+            const $prevArrow = $wrapper.find('.slick-prev');
+            const $nextArrow = $wrapper.find('.slick-next');
+
+            // Prevent re-initialization
+            if (!$container.hasClass('slick-initialized')) {
+                $container.slick({
+                    infinite: true,
+                    speed: 300,
+                    slidesToShow: $container.children().length > 7 ? 1 :  $container.children().length,
+                    variableWidth: $container.children().length > 7 ? true : false,
+                    prevArrow: $prevArrow,
+                    nextArrow: $nextArrow,
+                    responsive: [
+                    {
+                        breakpoint: 1024,
+                        settings: {
+                            slidesToShow: 1
+                        }
+                    }]
+                });
+            }
+        });
+
+        AOS.init();
+    </script>
+
+    <script>
+        
+    </script>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WS3PDQ3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script>
+
+
+function loadImagePixel(imgSrc) {
+   let img = document.createElement('img');
+   img.src = imgSrc
+   img.setAttribute('style', 'border-style:none;')
+   img.setAttribute('alt', '')
+   img.setAttribute('height', '1')
+   img.setAttribute('width', '1')
+   document.querySelector('body').appendChild(img)
+}
+
+
+/* Event snippet for search positions - CTA click - sncorp.com conversion page */
+function searchPositionsButtonConversion(url) {
+ var callback = function () {
+   if (typeof(url) != 'undefined') {
+     window.location = url;
+   }
+ };
+ gtag('event', 'conversion', {
+     'send_to': 'AW-16607436136/B-yaCP6elL8ZEOi6he89',
+     'event_callback': callback
+ });
+ return false;
+}
+
+
+searchPositionsButtons = document.querySelectorAll('a.btn[href^="https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/"]')
+
+
+searchPositionsButtons.forEach(
+   function(btn) {
+       btn.addEventListener('click', function(event) {
+           searchPositionsButtonConversion();
+           loadImagePixel('https://insight.adsrvr.org/track/pxl/?adv=dfo4zb5&ct=0:gurflqx&fmt=3');
+       });
+   });
+
+
+/* Event snippet for join our talent pool - CTA click - sncorp.com conversion page */
+
+
+function joinTalentPoolConversion(url) {
+ var callback = function () {
+   if (typeof(url) != 'undefined') {
+     window.location = url;
+   }
+ };
+ gtag('event', 'conversion', {
+     'send_to': 'AW-16607436136/10UBCIGflL8ZEOi6he89',
+     'event_callback': callback
+ });
+ return false;
+}
+
+
+joinTalentPoolButtons = document.querySelectorAll('a.btn[href^="https://pages.beamery.com/sncorpcomcareers/page/snc-genpage"]')
+
+
+joinTalentPoolButtons.forEach(
+   function(btn) {
+       btn.addEventListener('click', function(event) {
+       joinTalentPoolConversion();
+       loadImagePixel('https://insight.adsrvr.org/track/pxl/?adv=dfo4zb5&ct=0:s5uzyk5&fmt=3');
+       });
+   });
+
+
+</script>
+</body>
+
+</html>
